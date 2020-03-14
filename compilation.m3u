@@ -1,4 +1,4 @@
-# tv#EXTM3U
+#EXTM3U
 
 #EXTINF:-1,Прямой 1
 http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
@@ -11,372 +11,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4&app=playlist
 
 #EXTINF:-1,Прямий 3
 http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
-#EXTINF:-1,Галактика
-http://178.163.43.214:4022/udp/234.0.0.111:2000
-
-#EXTINF:-1,Galaxy
-http://178.163.18.154:4022/udp/234.0.0.111:2000
-
-#EXTINF:-1,STR TV HD
-http://hls.goodgame.ru/hls/130048.m3u8
-
-#EXTINF:-1,CBS AZ
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8
-
-#EXTINF:-1,Кинозал KINOBUM 1
-https://v2.catcast.me/content/35525/index.m3u8
-
-#EXTINF:-1,Paramount Channel
-http://paramount.live.flumotion.com/live/playlist.m3u8
-
-#EXTINF:-1,Paramount Comedy
-http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
-
-#EXTINF:-1,Кино ТВ
-http://spacetv.in/stream/DVB2D6AE8CU/221.m3u8
-
-#EXTINF:-1, МИГ ТВ HD
-http://live-migtv.cdnvideo.ru/migtv/migtv.sdp/playlist.m3u8
-
-#EXTINF:-1, Кинозал Film TV
-http://195.9.195.3:8080/hls/165462.m3u8
-
-#EXTINF:-1,FOX HD
-https://user11183.clients-cdnnow.ru/hls/FOX_HD/master.m3u8
-
-#EXTINF:-1,FOX Life HD
-https://user11183.clients-cdnnow.ru/hls/Fox_Life_HD/master.m3u8
-
-#EXTINF:-1,Severtv Kino
-https://hls.goodgame.ru/hls/146065.m3u8
-
-#EXTINF:-1,Kino 1
-http://v2.catcast.me/content/35525/index.m3u8
-
-#EXTINF:-1,КиноЗаказ 1
-http://hls.goodgame.ru/hls/12949.m3u8
-
-#EXTINF:-1,КиноЗаказ 1
-https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
-
-#EXTINF:-1,Кинозал 2 (pznstreams)
-https://hls.goodgame.ru/hls/12949_720.m3u8
-
-#EXTINF:-1,КИНОЗАЛ  ХИТ / LOST / CINEMA/ СТРАХ   HD
-http://s3.catcast.me/live/what.flv
-
-#EXTINF:-1,Фантастика
-http://v2.catcast.me/content/37388/index.m3u8
-
-#EXTINF:-1,AMEDIA HIT
-http://78.129.228.178/iptv/BACU6GGT7XNVQC/556/index.m3u8
-
-#EXTINF:-1,AMEDIA HIT HD
-http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-
-#EXTINF:-1,Amedia Premium HD (SD)
-http://78.129.228.178/iptv/BACU6GGT7XNVQC/555/index.m3u8
-
-#EXTINF:-1,Amedia 1
-http://78.129.228.178/iptv/BACU6GGT7XNVQC/554/index.m3u8
-
-#EXTINF:-1,Sony Sci-Fi
-http://178.165.68.39:7781/udp/239.2.1.68:1234
-
-#EXTINF:-1,StarFamily
-http://178.165.68.39:7781/udp/239.2.1.45:1234
-
-#EXTINF:-1,Dorama
-http://178.165.68.39:7781/udp/239.2.1.76:1234
-
-#EXTINF:-1,ТИС ТВ
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-43200
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-50400
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-57600
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-64800
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-72000
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-79200
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-86400
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-93600
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-97200
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-104400
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-111600
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-118800
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-126000
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-133200
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-140400
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-154800
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-169200
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-176400
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-183600
-
-#EXTINF:-1,ULTRA HD CINEMA
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-190800
-
-#EXTINF:-1,Ultra HD Cinema (Zabava)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-
-#EXTINF:-1,любимое индийское кино
-http://v2.catcast.me/content/37353/index.m3u8
-
-#EXTINF:-1,Классика кино HD
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-
-#EXTINF:-1,Красная линия
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-
-#EXTINF:-1,Север ТВ (Нарьян-Мар)
-http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-
-#EXTINF:-1,2x2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,СКАЗКИ ЗАЙКИ
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
-
-#EXTINF:-1, Малятко TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
-
-#EXTINF:-1,Карусель
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_KARUSEL.m3u8
-
-#EXTINF:-1, HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-
-#EXTINF:-1,Наше ТВ
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
-
-#EXTINF:-1,Первый Музыкальный RU BY
-http://rtmp.one.by:2200
-
-#EXTINF:-1,M2O TV (IT)
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
-#EXTINF:-1,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-
-#EXTINF:-1,MTV Mix (Уфа) +2
-http://81.30.182.82:18092/hls/live.m3u8
-
-#EXTINF:-1,OTV Music
-http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
-
-#EXTINF:-1, М2
-http://live.m2.tv/hls3/stream.m3u8
-
-#EXTINF:-1,Kronehit TV HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-1,Муз Тв
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_MUZTV.m3u8
-
-#EXTINF:-1, Муз ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8?version=2&offset=-172800
-
-#EXTINF:-1, Muz TV AZ
-http://streams2.livetv.az/azerbaijan/muztv/playlist.m3u8
-
-#EXTINF:-1, MM-TV HD
-http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
-
-#EXTINF:-1, РORTAL FOXMIX TV
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-
-#EXTINF:-1,ТНТ Music
-http://streamer-1.obozrenie.tv/18/06feccb3a7f98a6e49ecb2a5/221/stream.m3u8
-
-#EXTINF:-1,Афонтово (Красноярск)
-http://xstream.afontovo.ru/afontovo_ya.m3u8
-
-#EXTINF:-1,БСТ
-http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Евроновости
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-
-#EXTINF:-1,Эхо ТВ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-
-#EXTINF:-1,Юрган ТВ HD (Сыктывкар)
-http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Пятница
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_FRIDAY.m3u8
-
-#EXTINF:-1,Пятница
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,СТС
-http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
-
-#EXTINF:-1,СТС Прима
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-
-#EXTINF:-1,СТB
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-
-#EXTINF:-1,Мир 24
-http://sc.id-tv.kz/Mir24_38_39.m3u8
-
-#EXTINF:-1,Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
-
-#EXTINF:-1,Мир +3 (KZ)
-http://sc.id-tv.kz/Mir_36_37.m3u8
-
-#EXTINF:-1,Мир +4
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-
-#EXTINF:-1,МИР Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-
-#EXTINF:-1,Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-
-#EXTINF:-1,Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-
-#EXTINF:-1,Рен ТВ International
-http://sc.id-tv.kz/RenTV_36_37.m3u8
-
-#EXTINF:-1,НТВ (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
-
-#EXTINF:-1,НТВ (+2)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
-
-#EXTINF:-1,НТВ (+4)
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
-
-#EXTINF:-1,РБК ТВ (Уфа)
-http://92.50.128.180/utv/1358/index.m3u8
-
-#EXTINF:-1,Первый канал
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
-
-#EXTINF:-1,Первый канал
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-
-#EXTINF:-1,Первый канал (+5)
-http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
-
-#EXTINF:-1,Первый канал (+6)
-http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
-
-#EXTINF:-1,Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
-
-#EXTINF:-1,Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-
-#EXTINF:-1,Россия 1 HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-
-#EXTINF:-1,Россия 24
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
-
-#EXTINF:-1,Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-
-#EXTINF:-1,Россия РТР
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1,Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,Россия К
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
-
-#EXTINF:-1,ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-
-#EXTINF:-1,Москва 24
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
-
-#EXTINF:-1,Москва 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1,Югра ТВ +2
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
-
-#EXTINF:-1,Якутия 24
-http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
-
-#EXTINF:-1, Че!/Север
-http://tvsever.ru:8080/hls/ach2.m3u8
-
-#EXTINF:-1, Рика ТВ
-http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-
-#EXTINF:-1,Сочи 24 HD
-http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
 
 #EXTINF:-1,UA TV HD
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
@@ -404,9 +38,6 @@ http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 
 #EXTINF:-1,ТРК УКРАЇНА
 http://6dc51851.megogo.xyz/iptv/UNQK8HXZHZWX73/1011/index.m3u8
-
-#EXTINF:-1,1+1
-http://6dc51851.megogo.xyz/iptv/UNQK8HXZHZWX73/994/index.m3u8
 
 #EXTINF:-1,1+1
 http://188.35.9.11:2001
@@ -531,72 +162,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
 #EXTINF:-1,1+1
 http://188.35.9.26:1050/udp/238.0.1.1:69000
 
-#EXTINF:-1,Скиф -Беларусь
-http://178.172.150.248:2051/skifvit/index.m3u8
-
-#EXTINF:-1,ТВ-3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,Супер
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,Любимый HD/ТНТ4 (KG)
-http://92.245.103.126:1935/live/live.stream/playlist.m3u8
-
-#EXTINF:-1,ТНТ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-
-#EXTINF:-1,ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-
-#EXTINF:-1,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
-
-#EXTINF:-1,ТНТ Exclusiv tv
-http://89.28.25.122/hls/tnt_md.m3u8
-
-#EXTINF:-1,Оплот ТВ HD
-http://dprtv.phoenix-dnr.ru/oplot-tv
-
-#EXTINF:-1,Оплот ТВ 2
-http://ott.inmart.tv:8081/17/index.m3u8
-
-#EXTINF:-1,Юнион
-http://dprtv.phoenix-dnr.ru/union
-
-#EXTINF:-1,Новороссия ТВ HD
-http://dprtv.phoenix-dnr.ru/novorossia-tv
-
-#EXTINF:-1,Первый республиканский HD
-http://dprtv.phoenix-dnr.ru/first-republic-tv
-
-#EXTINF:-1,Парк Патриот HD
-https://serv25.vintera.tv/parad/patriot/chunks.m3u8
-
-#EXTINF:-1,Kvartal TV
-http://178.165.68.39:7781/udp/239.2.1.70:1234
-
-#EXTINF:-1,Интер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-
-#EXTINF:-1,43 канал HD
-http://sochi-strk.ru:2015/43Kanal/mpegts
-
-#EXTINF:-1,СТРК HD
-http://sochi-strk.ru:2015/STRK/mpegts
-
-#EXTINF:-1, НТВ+ Спорт
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1
-http://188.35.9.11:2025
-
-#EXTINF:-1,CGTN Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-
 #EXTINF:-1,Da Vinci
 http://spacetv.in/stream/DVB2D6AE8CU/238.m3u8
 
@@ -617,30 +182,6 @@ http://spacetv.in/stream/DVB2D6AE8CU/177.m3u8
 
 #EXTINF:-1,Discovery Science HD
 http://spacetv.in/stream/DVB2D6AE8CU/146.m3u8
-
-#EXTINF:-1,Львов - пр.Свободы
-http://vps.guru.ua/hls/panorami.m3u8
-
-#EXTINF:-1,Львов - Оперный театр
-http://vps.guru.ua/hls/opera.m3u8
-
-#EXTINF:-1,Teen
-http://cdn.adultiptv.net/teen.m3u8
-
-#EXTINF:-1,STARS
-http://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1,XXL(18+)
-http://live.redtraffic.xyz/teen.m3u8
-
-#EXTINF:-1,Blowjob Channel
-http://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1,Cuckold Channel
-http://cdn.adultiptv.net/cuckold.m3u8
-
-#EXTINF:-1,Super One (18+)
-http://188.35.9.5:10007/stolen/246r/parasite.install
 
 #EXTINF:-1,Трофей HD
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
@@ -726,9 +267,6 @@ https://user11183.clients-cdnnow.ru/hls/VIP_SERIAL/master.m3u8
 #EXTINF:-1,Ultra HD Cinema HD
 http://dmitry-tv.ru/his/itv_zabava/CH_ULTRAHDCINEMA_HLSHD.m3u8
 
-#EXTINF:-1,Russian Extreme Ultra HD
-http://dmitry-tv.ru/his/itv_zabava/CH_RUSSIANEXTREMEULTRA_HLSHD.m3u8
-
 #EXTINF:-1,KINO.WATCH Хит
 https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=NJAZAMYQLP
 
@@ -749,30 +287,6 @@ https://or-be-01.mycdn.video/watch/horror/index.m3u8?token=NJAZAMYQLP
 
 #EXTINF:-1,KINO.WATCH Фантастика
 https://or-be-01.mycdn.video/watch/scifi/index.m3u8?token=NJAZAMYQLP
-
-#EXTINF:-1,Pznstreams
-https://hls.goodgame.ru/hls/12949.m3u8
-
-#EXTINF:-1,STR TV
-https://hls.goodgame.ru/hls/130048.m3u8
-
-#EXTINF:-1,Films TV
-https://hls.goodgame.ru/hls/165462.m3u8
-
-#EXTINF:-1,KVN-HD
-https://hls.goodgame.ru/hls/172148.m3u8
-
-#EXTINF:-1,DIESELBOY)
-https://hls.goodgame.ru/hls/42599.m3u8
-
-#EXTINF:-1,Боль
-https://hls.goodgame.ru/hls/73474.m3u8
-
-#EXTINF:-1,Evgen СССР
-https://v2.catcast.me/content/36506/index.m3u8
-
-#EXTINF:-1,Evgen Ужасы
-https://v2.catcast.me/content/36277/index.m3u8
 
 #EXTINF:-1,Кинозал 1
 https://v2.catcast.me/content/35448/index.m3u8
@@ -867,12 +381,6 @@ https://95-213-224-184.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1,Футбол 2 HD
 https://95-213-224-184.livesports24.online/fooootball2.m3u8
 
-#EXTINF:-1,XSPORT
-http://193.46.210.28/stream/ij6ynmg96mjktfzfbi5ei9kw6wnuah2f9uy82nv8963bwbcfq4xpsb6vntjnav5zzdebg6k6634hgmcxcsw4ed7nhaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-
-#EXTINF:-1,Беларусь 5
-https://95-213-224-184.livesports24.online/belarusss5.m3u8
-
 #EXTINF:-1,МАТЧ!
 https://95-213-224-184.livesports24.online/ooomatch.m3u8
 
@@ -899,28 +407,6 @@ https://95-213-224-184.livesports24.online/mfootball2rus.m3u8
 
 #EXTINF:-1,МАТЧ! Футбол 3
 https://95-213-224-184.livesports24.online/rumatchf3.m3u8
-
-#EXTINF:-1,Setanta Sports ua
-https://95-213-224-184.livesports24.online/setantaukraine.m3u8
-
-#EXTINF:-1,SETANTA SPORTS UA
-http://193.46.210.28/stream/rk6xhxkg4vcp6nav7snu2u3jtr2e638sum76sczamii7q8dmez8yjz3cgr4va52hcbfsaeycnbp74nxchaj79f3ejmxsixmrbmjzu7r2faw77qgd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
-
-#EXTINF:-1,Setanta Sports
-https://95-213-224-184.livesports24.online/rusetantaeurasia.m3u8
-
-#EXTINF:-1,Eurosport 1
-https://95-213-224-184.livesports24.online/eurosport1ru.m3u8
-
-#EXTINF:-1,Eurosport 2
-https://95-213-224-184.livesports24.online/ruseurosport2.m3u8
-
-#EXTINF:-1,Футбол RU
-https://95-213-224-184.livesports24.online/footballrus.m3u8
-
-#EXTINF:-1,КХЛ HD
-https://95-213-224-184.livesports24.online/khlhdru.m3u8
-
 #EXTINF:-1,Sport 1 ua
 https://95-213-224-184.livesports24.online/sport1ua.m3u8
 
@@ -935,9 +421,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 
 #EXTINF:-1,Viasat Sport HD
 https://user11183.clients-cdnnow.ru/hls/Viasat_Sport_HD/master.m3u8
-
-#EXTINF:-1,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
 
 #EXTINF:-1,5 Kanal_test
 http://185.189.184.7:8888/5kanal/index.m3u8?token=test
