@@ -1,4 +1,116 @@
 #EXTM3U
+#EXTINF:-1,Квартал ТВ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kvartal-tv-ua.m3u8
+#EXTINF:-1,ТЕТ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tet.m3u8
+#EXTINF:-1,5 канал UA
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/5kanal-ukraina.m3u8
+#EXTINF:-1,112 Украина
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/112-ua.m3u8
+#EXTINF:-1,NewsONE
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/news-one-ua.m3u8
+#EXTINF:-1,24 Канал
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/24tv-ua.m3u8
+#EXTINF:-1,ЧП Info
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/chptv-ua.m3u8
+#EXTINF:-1,НТН
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ntn.m3u8
+#EXTINF:-1,Eспресо TV
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/plus-plus.m3u8
+#EXTINF:-1,Прямий
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tonis-ua.m3u8
+#EXTINF:-1,Наш
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/kanal-nash.m3u8
+#EXTINF:-1,K1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/k1-ua.m3u8
+#EXTINF:-1,K2
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/k2-ua.m3u8
+#EXTINF:-1,Enter-фільм
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/enter-film-ua.m3u8
+#EXTINF:-1,Болт
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/bolt-ua.m3u8
+#EXTINF:-1,ICTV
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ictv.m3u8
+#EXTINF:-1,СТБ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/stb.m3u8
+#EXTINF:-1,Перший Національний
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj-national-ua.m3u8
+#EXTINF:-1,Интер
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/inter.m3u8
+#EXTINF:-1,Интер+
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/inter-plus-ua.m3u8
+#EXTINF:-1,1+1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/1-plus-1.m3u8
+#EXTINF:-1,2+2
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/2-plus-2-ua.m3u8
+#EXTINF:-1,УНІАН
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/unian-tv-ua.m3u8
+#EXTINF:-1,Новый Канал
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/novij-kanal.m3u8
+#EXTINF:-1,Україна
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/trk-ua.m3u8
+#EXTINF:-1,M1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/m1-ua.m3u8
+#EXTINF:-1,M2
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/m2-ua.m3u8
+#EXTINF:-1,ZOOM
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/zoom-ua.m3u8
+#EXTINF:-1,Мега
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/mega-ua.m3u8
+#EXTINF:-1,НЛО
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nlo-ua.m3u8
+#EXTINF:-1,Индиго
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/indigo-ua.m3u8
+#EXTINF:-1,Жара
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/zhara.m3u8
+#EXTINF:-1,Наше ТВ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nashe-tv.m3u8
+#EXTINF:-1,MTV Hits
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/mtv-hits.m3u8
+#EXTINF:-1,Первый Автомобильный
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/pervyj-avto-ua.m3u8
+#EXTINF:-1,TV1000
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tv1000.m3u8
+#EXTINF:-1,TV1000 Action
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tv1000-action.m3u8
+#EXTINF:-1,TV1000 Русское Кино
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/tv1000-ru-kino.m3u8
+#EXTINF:-1,Авто плюс
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/avto-plus.m3u8
+#EXTINF:-1,Авто 24
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/avto-24.m3u8
+#EXTINF:-1,National Geographic
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/national-geographic.m3u8
+#EXTINF:-1,Discovery Channel
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/discovery.m3u8
+#EXTINF:-1,Discovery Science
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/discovery-science.m3u8
+#EXTINF:-1,Investigation Discovery
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/id-xtra.m3u8
+#EXTINF:-1,Animal planet
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/animal-planet.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/nat-geo-wild.m3u8
+#EXTINF:-1,Viasat Nature
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/viasat-nature.m3u8
+#EXTINF:-1,Viasat Explore
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/viasat-explorer.m3u8
+#EXTINF:-1,Живая Планета
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/zhivaya-planeta.m3u8
+#EXTINF:-1,Travel Channel
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/travel-channel.m3u8
+#EXTINF:-1,Travel+Adventure
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/travel-adventure.m3u8
+#EXTINF:-1,Охотник и Рыболов
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/ohotnik-rybolov.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/oxota-rybalka.m3u8
+#EXTINF:-1,Диалоги о Рыбалке
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/dialogi-rybalka.m3u8
+#EXTINF:-1,History
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/history.m3u8
+#EXTINF:-1,Viasat History
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/viasat-history.m3u8
 #EXTINF:-1,Прямой 1
 http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
 #EXTINF:-1,Прямой HD
