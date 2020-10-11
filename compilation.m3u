@@ -29,6 +29,7 @@ http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Украина",К1
 http://109.68.41.148:1935/live/k1_3/playlist.m3u8
+
 #EXTINF:-1 group-title="Музыка",Europa Plus TV
 http://teledifusion.tv:1935/cordoba/cordobalive/chunklist_w1004763452.m3u8
 #EXTINF:-1 group-title="Музыка",Music Box RU
@@ -59,6 +60,7 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
 #EXTINF:-1 group-title="Музыка",М2
 http://live.m2.tv/hls3/stream.m3u8
+
 #EXTINF:-1 group-title="Кино",VIP Comedy
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
 #EXTINF:-1 group-title="Кино",VIP Megahit
@@ -69,7 +71,6 @@ http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
 http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское Кино
 http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
-
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
 https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
@@ -84,8 +85,7 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 http://live03-cdn.tv.ti.ru:80/dtv/id1230_NBN_SG--RodnoeKino/03/plst.m3u8
 #EXTINF:-1 group-title="Кино",Русский Бестселлер
 http://live03-cdn.tv.ti.ru:80/dtv/id124_NBN_SG--russkiy_bestseller/03/plst.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports UA
-https://95-213-224-186.livesports24.online/setantaukraine.m3u8
+
 #EXTINF:-1 group-title="Спорт",Setanta Sports +
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
 #EXTINF:-1 group-title="Спорт",MostVideo TV HD
@@ -98,34 +98,39 @@ http://89.106.234.4:80/khl_hd_34_35.m3u8
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="Спорт",Viasat Sport
 http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
-#EXTINF:-1 group-title="Познавательное",Travel+ Adventure
+
+#EXTINF:-1 group-title="Пізнавальне",Travel+ Adventure
 http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Познавательное",Viasat Explore
+#EXTINF:-1 group-title="Пізнавальне",Viasat Explore
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
-#EXTINF:-1 group-title="Познавательное",Viasat History
+#EXTINF:-1 group-title="Пізнавальне",Viasat History
 http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
-#EXTINF:-1 group-title="Познавательное",National Geographic HD
-http://live-ng-01.more.tv/hls/NGC_HD/index_2.m3u8
-#EXTINF:-1 group-title="Познавательное",National Geographic HD
+#EXTINF:-1 group-title="Пізнавальне" ,Discovery Channel
+http://94.125.54.22:999/udp/239.191.254.34:13343
+#EXTINF:-1 group-title="Пізнавальне" ,Discovery Science
+http://94.125.54.22:999/udp/239.191.254.36:13343
+
+#EXTINF:-1 group-title="Пізнавальне",National Geographic HD
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-#EXTINF:-1 group-title="Познавательное",Viasat Nature
+#EXTINF:-1 group-title="Пізнавальне",Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
-#EXTINF:-1 group-title="Познавательное",Трофей
+#EXTINF:-1 group-title="Пізнавальне",Трофей
 http://91.197.147.244:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
-#EXTINF:-1 group-title="Познавательное",Дикая охота HD
+#EXTINF:-1 group-title="Пізнавальне",Дикая охота HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYAOHOTAHD/variant.m3u8
-#EXTINF:-1 group-title="Познавательное",Дикая рыбалка HD
+#EXTINF:-1 group-title="Пізнавальне",Дикая рыбалка HD
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
-#EXTINF:-1 group-title="Познавательное",Nano TV
+#EXTINF:-1 group-title="Пізнавальне",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Познавательное",Моя Планета
+#EXTINF:-1 group-title="Пізнавальне",Моя Планета
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Познавательное",Загородная жизнь
+#EXTINF:-1 group-title="Пізнавальне",Загородная жизнь
 http://live03-cdn.tv.ti.ru:80/dtv/id371_NBN_SG--Zagorodnaya_zhizn/01/plst.m3u8
-#EXTINF:-1 group-title="Познавательное",Ocean TV
+#EXTINF:-1 group-title="Пізнавальне",Ocean TV
 http://live03-cdn.tv.ti.ru:80/dtv/id129_NBN_SG--ocean/03/plst.m3u8
-#EXTINF:-1 group-title="Познавательное",Приключения
+#EXTINF:-1 group-title="Пізнавальне",Приключения
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8
+
 #EXTINF:-1 ,ABC News International
 https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
 #EXTINF:-1 ,TULALIP TV
