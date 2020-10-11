@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="Украина" ,Перший незалежний
+http://95.67.12.149:9004
 #EXTINF:-1 group-title="Украина",Интер
 http://109.68.41.148:1935/live/inter_2/playlist.m3u8
 #EXTINF:-1 group-title="Украина",1+1 International
 http://193.34.172.141:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Украина",Тернополь 1
+http://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 group-title="Украина",2+2
 https://95-213-224-186.livesports24.online/ua2plus2.m3u8
 #EXTINF:-1 group-title="Украина",24 Украина
@@ -65,6 +69,7 @@ http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8
 http://195.191.208.78:8080/tv1000hd/index.m3u8
 #EXTINF:-1 group-title="Кино",TV1000 Русское Кино
 http://live-ng-01.more.tv/hls/TV1000_Russian_Kino_HD/master.m3u8
+
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
 https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 #EXTINF:-1 group-title="Кино",Hollywood
@@ -99,6 +104,10 @@ http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
 #EXTINF:-1 group-title="Познавательное",Viasat History
 http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
+#EXTINF:-1 group-title="Познавательное",National Geographic HD
+http://live-ng-01.more.tv/hls/NGC_HD/index_2.m3u8
+#EXTINF:-1 group-title="Познавательное",National Geographic HD
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 #EXTINF:-1 group-title="Познавательное",Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
 #EXTINF:-1 group-title="Познавательное",Трофей
