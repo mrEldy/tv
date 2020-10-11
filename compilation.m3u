@@ -98,6 +98,12 @@ http://89.106.234.4:80/khl_hd_34_35.m3u8
 http://45.58.62.92:8080
 #EXTINF:-1 group-title="Спорт",Viasat Sport
 http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
+#EXTINF:-1 group-title="Спорт", Футбол 1
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol1-ua.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 2
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol2-ua.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол 3
+http://s04.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/futbol3-ua.m3u8
 
 #EXTINF:-1 group-title="Пізнавальне",Travel+ Adventure
 http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
