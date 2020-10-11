@@ -105,10 +105,14 @@ http://178.217.72.66:80/225.201.2.233/tracks-v1a1/mono.m3u8
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
 #EXTINF:-1 group-title="Пізнавальне",Viasat History
 http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
-#EXTINF:-1 group-title="Пізнавальне" ,Discovery Channel
-http://94.125.54.22:999/udp/239.191.254.34:13343
-#EXTINF:-1 group-title="Пізнавальне" ,Discovery Science
-http://94.125.54.22:999/udp/239.191.254.36:13343
+#EXTINF:-1 group-title="Пізнавальне",Discovery HD
+http://live-ng-01.more.tv/hls/Discovery_HD/index_0.m3u8
+#EXTINF:-1 group-title="Пізнавальне",Discovery HD (Запас)
+http://live-ng-01.more.tv/hls/Discovery_HD/index_5.m3u8
+#EXTINF:-1 group-title="Пізнавальне",Discovery FHD
+http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
+#EXTINF:-1 group-title="Пізнавальне",Discovery Science HD
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/index_1.m3u8
 
 #EXTINF:-1 group-title="Пізнавальне",National Geographic HD
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
